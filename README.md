@@ -27,6 +27,9 @@ pip3 install -r requirements.txt
  **Main File:** `dem_main.py`,  **Setting File:** `Seting.py`,  **Plot Summary Results:** `dem_plot_summary.py`, 
  
  **PATH:** Output: `./results`, Figures: `./figs`, Dataset: `./data`
+
+ **Generated Dataset:** [Google Drive Link](https://drive.google.com/drive/folders/1qhVuh5S_UIr9U5SdULzr0l79_EsdsX8E?usp=sharing),
+ Unzip each dataset file and move to ./data/mnist/data or ./data/fmnist/data 
  
 ### Input Parameters for the algorithm:
 The more detail setting can be found in `Setting.py` file
